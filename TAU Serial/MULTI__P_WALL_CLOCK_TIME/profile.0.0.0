@@ -1,0 +1,13 @@
+10 templated_functions_MULTI_P_WALL_CLOCK_TIME
+# Name Calls Subrs Excl Incl ProfileCalls # <metadata><attribute><name>Metric Name</name><value>P_WALL_CLOCK_TIME</value></attribute><attribute><name>Ending Timestamp</name><value>1565022817922989</value></attribute></metadata>
+".TAU application" 1 1 89 81804 0 GROUP="TAU_USER" 
+"int main(int, char **) C [{serial.pomp.c} {14,1}-{51,1}]  " 1 8 595 81715 0 GROUP="TAU_DEFAULT" 
+"MPI_Init()  " 1 0 31994 31994 0 GROUP="MPI" 
+"void generate(int *, int) C [{serial.pomp.c} {54,1}-{60,1}]  " 1 0 4 4 0 GROUP="TAU_USER" 
+"void copy(int *, int *, int) C [{serial.pomp.c} {63,1}-{69,1}]  " 1 0 1 1 0 GROUP="TAU_USER" 
+"void bubbleSort(int *, int) C [{serial.pomp.c} {81,1}-{93,1}]  " 1 169 218 380 0 GROUP="TAU_USER" 
+"void swap(int *, int, int) C [{serial.pomp.c} {72,1}-{78,1}]  " 338 0 322 322 0 GROUP="TAU_USER" 
+"void print(int *, int) C [{serial.pomp.c} {126,1}-{132,1}]  " 2 0 13 13 0 GROUP="TAU_USER" 
+"void oddEvenSort(int *, int) C [{serial.pomp.c} {96,1}-{123,1}]  " 1 169 155 315 0 GROUP="TAU_USER" 
+"MPI_Finalize()  " 1 0 48413 48413 0 GROUP="MPI" 
+0 aggregates

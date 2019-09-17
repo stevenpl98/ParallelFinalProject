@@ -1,0 +1,37 @@
+Unsorted Array: 2 8 30 0 92 52 22 97 74 37 48 73 34 11 85 37 24 16 98 9 28 19 50 36 56 
+Unsorted Array Copy: 2 8 30 0 92 52 22 97 74 37 48 73 34 11 85 37 24 16 98 9 28 19 50 36 56 
+
+TESTING BUBBLE SORT
+******************************************************************************************************************
+Thread 6 time is 0.001667
+Thread 8 time is 0.001682
+Thread 9 time is 0.001696
+Thread 10 time is 0.001708
+Thread 1 time is 0.001726
+Thread 0 time is 0.001739
+Thread 11 time is 0.001751
+Thread 5 time is 0.001676
+Thread 2 time is 0.001767
+Thread 7 time is 0.001772
+Thread 4 time is 0.001777
+Thread 3 time is 0.001782
+
+Bubble Sort: 0 2 8 9 11 16 19 22 24 28 30 34 36 37 37 48 50 52 56 73 74 85 92 97 98 
+
+
+TESTING ODD EVEN SORT
+******************************************************************************************************************
+Thread 10 time is 0.001411
+Thread 5 time is 0.001420
+Thread 8 time is 0.001436
+Thread 2 time is 0.001450
+Thread 6 time is 0.001462
+Thread 4 time is 0.001475
+Thread 0 time is 0.001488
+Thread 1 time is 0.001506
+Thread 9 time is 0.001521
+Thread 11 time is 0.001532
+Thread 3 time is 0.001539
+Thread 7 time is 0.001533
+
+Odd Even Sort: 0 2 8 9 11 16 19 22 24 28 30 34 36 37 37 48 50 52 56 73 74 85 92 97 98 
